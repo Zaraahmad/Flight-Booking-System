@@ -1,0 +1,98 @@
+﻿body
+{
+}
+
+/*form signin*/
+.login-padding{
+    background-color:#cfd2d3;
+	padding: 0 450px;
+    height:400px;
+}
+
+/*for signup*/
+.login-padding2{
+    background-color:#cfd2d3;
+	padding: 0 450px;
+    height:610px;
+}
+
+.form-box{
+    font-weight: bold;
+	font-size: 16px;
+    
+}
+
+.box{
+    width:420px;
+    height:30px;
+    border-radius:5px;
+    border: 2px solid #dcdcdc;
+    padding-left:10px;
+}
+
+.box-half{
+    width:200px;
+    height:30px;
+    border-radius:5px;
+    border: 2px solid #dcdcdc;
+    padding-left:10px;
+}
+
+/*form birthday*/
+
+#height{
+    height:35px;
+}
+
+.width{
+    width:430px;
+}
+
+.box-half1{
+    width:98px;
+    height:30px;
+    border-radius:5px;
+    border: 2px solid #dcdcdc;
+    padding-left:10px;
+}
+
+.checkbox{
+    float:left;
+}
+
+.frgt{
+    float:right;
+    padding-right:30px;
+}
+
+.frgt a{
+    color:#69bef2;
+    text-decoration:none;
+}
+
+.frgt a:visited{
+    color:black ;
+    text-decoration:underline;
+}
+
+a:link{
+    color:#69bef2;
+    text-decoration:none;
+}
+
+a:visited{
+    color:black;
+    text-decoration:underline;
+}
+.btn1
+{
+    width:300px;
+    border-radius: 14px;
+    font-family: Arial;
+    color: white;
+    font-size: 18px;
+    background: #6C3483;
+    border: 2px solid #dcdcdc;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}

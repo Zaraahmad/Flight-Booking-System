@@ -1,0 +1,21 @@
+﻿body
+{
+}
+
+#col-1{
+	float: left;
+	width: 330px;
+	/*border-right:1px solid #CCCCCC;*/
+}
+
+#col-2{
+	float: left;
+	width: 350px;
+	/*border-right:1px solid #CCCCCC;*/
+    padding-left:20px;
+}
+
+#col-3{
+	float: left;
+	width: 300px;
+}
